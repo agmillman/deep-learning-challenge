@@ -14,7 +14,7 @@ Leverage a deep learning model to to analyze a CSV file containing more than 34,
   Variables removed were EIN and NAME
 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  - Original Code: 72.33 Predicted Accuracy
+  - Original Code: 72.48 Predicted Accuracy
     - Activation function(s): relu
     - Layers: 2
     - Neurons: 80, 30
